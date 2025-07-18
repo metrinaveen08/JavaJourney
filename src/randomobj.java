@@ -6,7 +6,7 @@ public class randomobj {
         Random rn = new Random();
         Scanner input = new Scanner(System.in);
         int number;
-        int x;
+        int x;//hmm
         System.out.println("Enter the seed");
         x = input.nextInt();
         System.out.println("Enter from range from");

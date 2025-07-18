@@ -11,7 +11,7 @@ public class Main{
         if(isStudent) {
             System.out.println("gpa");
             double gpa = scanner.nextDouble();
-
+//ho
             System.out.println("hello " + name + " your age is" + age + "your gpa is" + gpa);
         }else{
             System.out.println("hello "+name+" your age is "+age);

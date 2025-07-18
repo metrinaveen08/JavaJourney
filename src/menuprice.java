@@ -8,7 +8,7 @@ public class menuprice {
         System.out.println("What is th price for the item?: ");
         double price = scanner.nextDouble();
         System.out.println("How much is the quantity?: ");
-        int quantity = scanner.nextInt();
+        int quantity = scanner.nextInt();//ytrd
         double total = price*quantity;
         System.out.println("You have bought "+quantity+" "+item+"/s");
         System.out.println("Your total is $"+total);

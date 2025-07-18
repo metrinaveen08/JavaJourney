@@ -10,7 +10,7 @@ public class madlibs {
     String adjective2;
     String verb1;
     String adjective3;
-
+//hjk
     System.out.println("Enter an adjective(description)");
     adjective1 = scanner.nextLine();
     System.out.println("Enter a noun(name/place)");

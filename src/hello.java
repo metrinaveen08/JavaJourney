@@ -6,7 +6,7 @@ public class hello {
     int y= 60;
     int a,b,c,d,e;
     a= x+y;
-    b= x-y;
+    b= x-y;//jkl
     c= x*y;
     d=x/y;
     e=x%y;

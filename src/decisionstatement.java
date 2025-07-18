@@ -18,7 +18,7 @@ public class decisionstatement {
      else{
          System.out.println(age+" not bad");
      }
-
+//hi
     scanner.close();
     }
 }
