@@ -3,7 +3,7 @@ public class hello {
     public static void main(String[] args){
     //arithematic
     int x= 34;
-    int y= 59;
+    int y= 60;
     int a,b,c,d,e;
     a= x+y;
     b= x-y;

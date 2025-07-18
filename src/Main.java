@@ -18,9 +18,9 @@ public class Main{
         }
  //common issues
         System.out.print("Enter name");
-        double width = 0;
-        double height = 0;
-        double area=0;
+        double width;
+        double height;
+        double area;
         System.out.println("enter widh :");
         width = scanner.nextDouble();
         System.out.println("enter height :");
